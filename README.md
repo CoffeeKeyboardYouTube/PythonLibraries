@@ -6,7 +6,7 @@ This repository is a compilation of all the codes of the libraries that have fea
 ## Videos & Files
 
 - [How to get coloured text in python? | TermColor]('https://www.youtube.com/watch?v=O-fGWA_tOH4&t') --> TermColor.py
-- [Download YouTube Videos | Pytube ]('https://www.youtube.com/watch?v=5s2urYqLjjM&t') --> [PyTube.py]('PythonLibraries/PyTube.py')
+- [Download YouTube Videos | Pytube ]('https://www.youtube.com/watch?v=5s2urYqLjjM&t') --> PyTube.py
 - [Extract audio from Videos | MoviePy]('https://youtube.com/watch?v=W0gau9E-Exo&t') --> Movie.py
 ## Authors
 
